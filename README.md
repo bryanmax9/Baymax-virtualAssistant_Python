@@ -37,9 +37,6 @@ Baymax will then respond to your command, either by speaking or by performing th
 
 If you would like to contribute to this project, please fork the repository and create a new branch for your changes. Once you have made your changes, submit a pull request with a description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
